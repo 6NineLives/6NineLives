@@ -205,10 +205,10 @@ I'm a developer specializing in AI Technologies with a strong foundation in Java
 
 <h3 align="center"> AI Tools & Prompt Engineering</h3>
 <div align="center">
- <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+ <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; table-layout: fixed; width: 80%;">
   <thead>
     <tr>
-      <th colspan="6" align="center" style="color: white;">AI Tools</th>
+      <th colspan="5" align="center" style="color: white;">AI Tools</th>
     </tr>
   </thead>
   <tbody>
@@ -216,11 +216,10 @@ I'm a developer specializing in AI Technologies with a strong foundation in Java
       <td align="center" style="border: none;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
       </td>
-       <td align="center" style="border: none;">
+      <td align="center" style="border: none;">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/><br>Claude (Anthropic)
       </td>
       <td align="center" style="border: none;">
-<!--         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50" alt="Google Gemini"/> -->
         <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" /><br>Google Gemini
       </td>
       <td align="center" style="border: none;">
@@ -229,12 +228,11 @@ I'm a developer specializing in AI Technologies with a strong foundation in Java
       <td align="center" style="border: none;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="80" height="50" alt="Meta Llama"/><br>Meta Llama
       </td>
-      <td align="center" style="border: none;">
-      </td>
     </tr>
   </tbody>
 </table>
 </div>
+
 
 
 <br>
