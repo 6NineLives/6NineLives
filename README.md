@@ -27,7 +27,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://discord.gg/YdDyV6QqEN" target="_blank">
+      <a href="https://discord.gg/" target="_blank">
         <img src="https://imgur.com/3C6CMuE.png" alt="6NineLives" width="100" height="100">
       </a>
     </td>
