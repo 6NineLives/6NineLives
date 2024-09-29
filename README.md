@@ -5,7 +5,7 @@
   </a>
 <h1 align="center">Hello &nbsp;<img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"> , I'm 6NineLives</h1>
 <p align="center">
-<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=160C7E&center=true&vCenter=true&width=435&lines=Computer+Scientist;AI+Engineer;Plugin+Configurator;Web+Developer;Game+Developer;Server+Administrator" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=160C7E&center=true&vCenter=true&width=435&lines=Computer+Scientist;AI+Engineer;Plugin+Configurator;Web+Developer;Game+Developer;Server+Administrator" alt="Typing SVG"/>
 
 </p>
 
