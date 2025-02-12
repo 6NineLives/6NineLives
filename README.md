@@ -94,8 +94,8 @@ I'm a developer specializing in AI Technologies with a strong foundation in Java
         </a>
       </td>
       <td>
-        <a href="https://github.com/6NineLives/VidEditAI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=6NineLives&repo=VidEditAI&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/6NineLives/AI_IDE_UI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=6NineLives&repo=AI_IDE_UI&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
